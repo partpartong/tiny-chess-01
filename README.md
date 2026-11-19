@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/tiny-chess-01/partpartong/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 [![reward](https://make.fun/badge/tiny-chess-01/partpartong/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
-A tiny chess engine in 4 KB of Python: 0x88 board, alpha-beta with a transposition table, null-move pruning, late move reductions, killer moves, and quiescence search over captures and check evasions. Fixed node budget per move, fully deterministic, standard library only.
+A tiny chess engine in 4 KB of Python: 0x88 board, alpha-beta with a transposition table, null-move pruning, late move reductions, killer moves, and quiescence search over captures and check evasions. Fixed node budget per move, fully deterministic, standard library only. Practice trial vs the house gauntlet: 3.5/6, about 1,327 Elo.
 
 ## Run it
 
